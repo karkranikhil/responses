@@ -1,0 +1,88 @@
+{
+  "stats": [
+    {
+      "category": "Total Fours",
+      "KPIValue": "2174",
+      "KPIUnit": "Fours"
+    },
+    {
+      "category": "Total Sixes",
+      "KPIValue": "1260",
+      "KPIUnit": "Sixes"
+    },
+    {
+      "category": "Total Fifties",
+      "KPIValue": "128",
+      "KPIUnit": "Fifties"
+    },
+    {
+      "category": "Total Hundreds",
+      "KPIValue": "14",
+      "KPIUnit": "Hundreds"
+    },
+    {
+      "category": "Highest Total",
+      "KPIValue": "287-3",
+      "KPIUnit": "SRH"
+    },
+    {
+      "category": "Lowest Total",
+      "KPIValue": "89-10",
+      "KPIUnit": "GT"
+    },
+    {
+      "category": "Fastest Ball",
+      "KPIValue": "157 KPH",
+      "KPIUnit": "KPH"
+    },
+    {
+      "category": "Longest Six",
+      "KPIValue": "110 MTRS",
+      "KPIUnit": "MS Dhoni"
+    }
+  ],
+  "keystats": [
+    {
+      "category": "Highest score",
+      "name": "Marcus Stoinis",
+      "KPIValue": "124",
+      "KPIUnit": "HS",
+      "playerId": "23"
+    },
+    {
+      "category": "Best Bowling Figures",
+      "name": "Sandeep Sharma",
+      "KPIValue": "5/18",
+      "KPIUnit": "BBI",
+      "playerId": "220"
+    },
+    {
+      "category": "Orange Cap",
+      "name": "Virat Kohli",
+      "KPIValue": "741",
+      "KPIUnit": "Runs",
+      "playerId": "2"
+    },
+    {
+      "category": "Purple Cap",
+      "name": "Harshal Patel",
+      "KPIValue": "24",
+      "KPIUnit": "Wickets",
+      "playerId": "114"
+    },
+    {
+      "category": "Most Valuable Player",
+      "name": "Sunil Narine",
+      "KPIValue": "450.0",
+      "KPIUnit": "MVP",
+      "playerId": "156"
+    },
+    {
+      "category": "Fairplay",
+      "name": "SRH Team",
+      "KPIValue": "173",
+      "KPIUnit": "PTS",
+      "playerId": "33"
+    }
+  ]
+}
